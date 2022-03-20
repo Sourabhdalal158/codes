@@ -4,7 +4,8 @@ void main()
 {
 int line,row,col,value=0;
 clrscr();
-printf("\n ARYAN THAKURintf("\n enter the numbers of lines:");
+printf("\n Sourabh")
+       intf("\n enter the numbers of lines:");
 scanf("%d",&line);
 for(row=1;row<=line;row++)
 {
